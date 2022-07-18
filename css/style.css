@@ -166,7 +166,7 @@ section{
 .card:hover{
     background: #FF2978;
     color: white;
-    padding: 40px;
+
 }
 .card:hover img{
     display: none;
@@ -185,6 +185,8 @@ footer{
     border-top: 5px solid #FF2978;
     color: white;
     text-align: center;
+    margin-top: 80px;
+
 }
 .logo-rodape{
     padding: 100px;
