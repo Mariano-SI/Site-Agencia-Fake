@@ -166,16 +166,20 @@ section{
 .card:hover{
     background: #FF2978;
     color: white;
+    transition: 0.7s;
 
 }
 .card:hover img{
     display: none;
+    transition: 0.7s;
 }
 .card:hover .card-text{
     display: none;
+    transition: 0.7s;
 }
 .card:hover .texto-oculto{
     display: block;
+    transition: 0.7s;
 }
 
 footer{
