@@ -1,0 +1,39 @@
+@media (max-width: 1005px){
+    .menu{
+        display: none;
+    }
+    .navbar{
+        position: relative;
+    }
+    .logo{
+        margin: 0;
+        text-align: center;
+    }
+    header{
+        padding-top: 50px;
+        display: block;
+    }
+    .introducao{
+        display: block;
+        flex: 100%;
+        margin: 5%;
+        text-align: center;
+    }
+    .introducao p{
+        text-align: center;
+    }
+    .imagem{
+        flex: 100%;
+        margin: 5%;
+        text-align: center;
+    }
+    .whats{
+        display: none;
+    }
+    servicos{
+        display: block;
+    }
+    .card{
+        width: 100%;
+    }
+}
